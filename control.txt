@@ -1,4 +1,2 @@
-1 esta region es para el turno del jugador
-3 esta region es para el turno de Paulo
-7 esta region es para el turno de Gabriel
-
+1 0 0
+1 0 0
